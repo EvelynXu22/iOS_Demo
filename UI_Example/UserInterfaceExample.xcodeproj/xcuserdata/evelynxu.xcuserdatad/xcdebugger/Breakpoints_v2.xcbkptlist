@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "830DB852-DAB9-4320-AA8B-9A9A719403D3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7E5762E-3F6C-4ECB-85E0-A803ADFBE860"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ImageModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "-imageDictionary"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A47D66B7-57EE-4480-8C5E-E97C0C3050F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F83BAD95-7AD7-4C5F-B774-F3D19BBDBDF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ImageModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-imageNames"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9569A022-7349-400C-8420-137068E9826D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "imageModel"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCB184BF-5FDF-4ABE-93B1-EDEBCB0B1A69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "imageView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4520D2D2-BD02-48AF-A71E-CB99D941D31F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "imageView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4520D2D2-BD02-48AF-A71E-CB99D941D31F - a0d65bfa78246e20"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserInterfaceExample.ViewController.imageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "UserInterfaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evelynxu/Documents/SMU/MSL/Demonstration/UserInterfaceExample-master/UserInterfaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "4520D2D2-BD02-48AF-A71E-CB99D941D31F - 19d733b002e1b234"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserInterfaceExample.ViewController.imageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "UserInterfaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evelynxu/Documents/SMU/MSL/Demonstration/UserInterfaceExample-master/UserInterfaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "4520D2D2-BD02-48AF-A71E-CB99D941D31F - eb415a52b03f8512"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserInterfaceExample.ViewController.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "UserInterfaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evelynxu/Documents/SMU/MSL/Demonstration/UserInterfaceExample-master/UserInterfaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "4520D2D2-BD02-48AF-A71E-CB99D941D31F - e7e1bdfff1295f01"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserInterfaceExample.ViewController.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "UserInterfaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evelynxu/Documents/SMU/MSL/Demonstration/UserInterfaceExample-master/UserInterfaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "4520D2D2-BD02-48AF-A71E-CB99D941D31F - e0fb11d5177434f6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserInterfaceExample.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UserInterfaceExample.ViewController"
+                  moduleName = "UserInterfaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evelynxu/Documents/SMU/MSL/Demonstration/UserInterfaceExample-master/UserInterfaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "221">
+               </Location>
+               <Location
+                  uuid = "4520D2D2-BD02-48AF-A71E-CB99D941D31F - b0682c85420887a3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserInterfaceExample.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UserInterfaceExample.ViewController&gt;"
+                  moduleName = "UserInterfaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evelynxu/Documents/SMU/MSL/Demonstration/UserInterfaceExample-master/UserInterfaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  uuid = "4520D2D2-BD02-48AF-A71E-CB99D941D31F - 3b644874134a5ef4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIImageView in UserInterfaceExample.ViewController.imageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "UserInterfaceExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evelynxu/Documents/SMU/MSL/Demonstration/UserInterfaceExample-master/UserInterfaceExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "319A4612-6C0A-427F-A2C0-BBE5A3D0E86E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ImageModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "-getImageWithName:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "309534CF-62DE-461C-AD1C-B9BF38DF42D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ImageModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-getImageNameForIndex:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48503683-669D-45A8-BF01-1DC16DFB9422"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserInterfaceExample/ImageModel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-imageNames"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

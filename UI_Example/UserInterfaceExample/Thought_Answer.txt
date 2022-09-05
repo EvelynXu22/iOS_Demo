@@ -1,0 +1,8 @@
+Flipped Assignment One: View Controllers
+1.Is this new implementation of the image model more efficient? Why or Why not? 
+The new implementation is more efficient. NSDictionary uses optimized storage for key queries. It can find the data  immediately by the key, rather than having to traverse the entire array to find it. For frequent queries and large data sets, dictionaries are  faster than arrays.
+2.Is this implementation of the model more scalable? Why or Why not?  It is surely more scalable compare to the original demo. Because NSDictionary (or NSMutableDictionary) could support many kinds of object.3.If there were 1000 images in the image.assets file, what would you change in the implementation of the image model? When processing a large number of images, memory increases dramatically, and the occupied memory resources cannot be released immediately, which can cause the program to terminate. So we can create an NSautoreleasepool object in the model to release occupied resources.
+
+
+Our group members whill be Yuanchun Zhao(48414279), Yinze Cui(48431206), Yiwen Xu(48377645) and Shuang Liang(48350631).
+    
